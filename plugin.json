@@ -1,5 +1,6 @@
 {
     "jsonVersion": 1,
+    "id": "846352ff6d64a3bad631145672051159",
     "name": "BM.PluginCreator",
     "description": "Create own plugins. This plugin creates templates.",
     "keywords": "Developer-Tools, Plugin-Creation",
