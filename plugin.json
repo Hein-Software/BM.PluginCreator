@@ -6,5 +6,15 @@
     "author": "David Hein",
     "version": "0.1",
     "type": "DevPlugin",
-    "requiredBMVersion": "0.1"
+    "requiredBMVersion": "0.1",
+    "dependencies":[
+    {
+        "name":"BM.BMPM.API_V0.1",
+        "version":"0.1"
+    },
+    {
+        "name":"BM.BMPM.WebAPI_V0.1",
+        "version":"0.1"
+    }
+    ]
 }
