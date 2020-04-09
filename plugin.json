@@ -1,0 +1,10 @@
+{
+    "jsonVersion": 1,
+    "name": "BM.PluginCreator",
+    "description": "Create own plugins. This plugin creates templates.",
+    "keywords": "Developer-Tools, Plugin-Creation",
+    "author": "David Hein",
+    "version": "0.1",
+    "type": "DevPlugin",
+    "requiredBMVersion": "0.1"
+}
